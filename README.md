@@ -1,5 +1,5 @@
 
-# 🧑‍💻 Rachamalla Pranavi - Portfolio & Personal Website
+#Rachamalla Pranavi - Portfolio & Personal Website
 
 Welcome to my personal portfolio website! 💼 + 👩‍💻
 
