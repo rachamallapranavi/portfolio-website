@@ -28,14 +28,16 @@ Built in 1st year B.Tech at KITS!
 - Personal - Beyond Code
 - Contact
 
-### 🚀 Projects Featured
+🚀 Projects Featured
+
 1. **CloudVerse** - My cloud-based project
 2. **This Portfolio Website** - Built from scratch
+3. **Live Weather App** - Python + API + CSV, Guntur live weather ni Excel lo save chestundi → [Code](https://github.com/rachamallapranavi/-weather-app-api)
 
-### 👩‍🎓 About Me
-- B.Tech 1st Year, KITS
-- Aspiring Cloud & Web Developer
-- Location: Chanda Nagar, Telangana
+🎓 About Me
+• B.Tech 1st Year, KITS
+• Aspiring Cloud & Web Developer
+• Location: old guntur, Guntur 
 
 ### 📫 Connect
 - GitHub: @rachamallapranavi
